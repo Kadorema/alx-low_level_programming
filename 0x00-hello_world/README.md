@@ -1,0 +1,1 @@
+This folder contains the solution for the first alx c project.
